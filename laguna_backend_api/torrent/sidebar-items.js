@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["torrent_get","torrent_patch","torrent_put"]};

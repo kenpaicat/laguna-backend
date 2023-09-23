@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["error","login","misc","peer","register","torrent","user"]};

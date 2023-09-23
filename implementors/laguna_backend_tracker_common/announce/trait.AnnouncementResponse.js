@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"laguna_backend_tracker_http":[["impl AnnouncementResponse for <a class=\"struct\" href=\"laguna_backend_tracker_http/announce/struct.AnnounceResponse.html\" title=\"struct laguna_backend_tracker_http::announce::AnnounceResponse\">AnnounceResponse</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
